@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ketan%20Chandore&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-### 👨‍💻 AI Developer | Full Stack Builder
-
-- 🔭 Building AI Tools and Web Apps
-- 🤖 Interested in AI Automation
-- 🚀 Currently working on PineToolsHub
-- 🌎 Creator of ColourPine
-
 # Hi 👋 I'm Ketan Chandore
 
 🚀 **Full Stack Developer | AI Tools Builder**
@@ -15,15 +8,7 @@ I build AI tools, web apps, automation systems and productivity platforms.
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **PineToolsHub** – AI Productivity OS  
-🔹 **SEO Academy** – AI SEO Tools Platform  
-🔹 **ColourPine** – Design with Perfect Colors  
-
----
-
-# 🚀 Tech Stack
+# 🧠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -35,13 +20,21 @@ I build AI tools, web apps, automation systems and productivity platforms.
 
 ---
 
+# 🚀 Featured Projects
+
+🔹 PineToolsHub – AI Productivity OS  
+🔹 SEO Academy – AI SEO Tools Platform  
+🔹 ColourPine – Design with Perfect Colors  
+
+---
+
 # 📊 GitHub Stats
 
 ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanchandore&show_icons=true&theme=tokyonight)
 
 ---
 
-# 💻 Most Used Languages
+# 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchandore&layout=compact&theme=tokyonight)
 
@@ -49,8 +42,8 @@ I build AI tools, web apps, automation systems and productivity platforms.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 👀 Profile Visitors
@@ -74,4 +67,5 @@ https://x.com/pinepl_techai
 https://colourpine.com
 
 ---
+
 ⭐ If you like my work, consider following my GitHub profile.
