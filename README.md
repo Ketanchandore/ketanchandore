@@ -37,14 +37,12 @@ I build AI tools, web apps, automation systems and productivity platforms.
 
 # 📊 GitHub Stats
 
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanchandore&show_icons=true&theme=tokyonight)
-
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanchandore&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ---
 
 # 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchandore&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchandore&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 # 🐍 Contribution Snake
