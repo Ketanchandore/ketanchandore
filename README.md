@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ketan%20Chandore&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 # Hi 👋 I'm Ketan Chandore
 
 🚀 **Full Stack Developer | AI Tools Builder**
