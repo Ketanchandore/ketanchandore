@@ -6,6 +6,13 @@
 
 I build AI tools, web apps, automation systems and productivity platforms.
 
+### 👨‍💻 AI Developer |
+
+- 🔭 Building AI Tools and Web Apps
+- 🤖 Interested in AI Automation
+- 🚀 Currently working on PineToolsHub
+- 🌎 Creator of ColourPine
+
 ---
 
 # 🧠 Tech Stack
@@ -43,6 +50,8 @@ I build AI tools, web apps, automation systems and productivity platforms.
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
