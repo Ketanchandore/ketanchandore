@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Ketan Chandore
 
-<!--
-**Ketanchandore/ketanchandore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer & AI Builder
 
-Here are some ideas to get you started:
+I build AI tools, web apps and automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+- JavaScript
+- Python
+- React
+- Node.js
+- HTML
+- CSS
+- Three.js
+
+---
+
+## 🚀 Projects
+
+🔹 PineToolsHub - AI Productivity OS  
+🔹 SEO Academy - AI SEO Tools
+🔹 ColourPine - Design with Perfect Colors
+
+---
+
+## 🌐 Connect With Me
+
+Email:
+ketanchandore1234@gmail.com
+
+LinkedIn  
+https://linkedin.com/in/ketan-chandore-51a533254
+
+Twitter  
+https://x.com/pinepl_techai
+
+Website  
+https://colourpine.com
