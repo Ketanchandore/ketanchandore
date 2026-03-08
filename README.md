@@ -50,7 +50,7 @@ I build AI tools, web apps, automation systems and productivity platforms.
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 ---
 
 # 👀 Profile Visitors
