@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ketan%20Chandore&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ketan%20Chandore&fontSize=40&fontColor=ffffff&animation=fadeIn"/>](https://capsule-render.vercel.app/api?type=waving&height=200&text=AI%20Developer%20Ketan%20Chandore&fontAlign=50&fontAlignY=40&color=gradient)
 
 # Hi 👋 I'm Ketan Chandore
 
